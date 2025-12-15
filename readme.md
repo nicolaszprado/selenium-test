@@ -35,5 +35,3 @@ Além disso, foi incluído um **Scenario Outline** para representar variações 
   - respostas devem evitar confirmar se o e-mail existe (anti-enumeração).
 - **Logs e auditoria**: recomendável registrar tentativas para segurança e suporte.
 
-## Observação
-Este trabalho não implementa Cucumber/Steps nem automação com Selenium/Cypress — apenas especifica comportamentos em BDD conforme solicitado.
